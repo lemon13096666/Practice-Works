@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary and operating system files
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
